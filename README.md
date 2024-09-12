@@ -6,3 +6,5 @@ Trabajos HTML (Programación Web)
 [Formularios](Ejercicio4/Formularios.html)
 ### Trabajo 1 CSS
 [Fender](Ejercicio5/Fender.html)
+### Trabajo 2 CSS
+[Tarjeta](Ejercicio6/Tarjeta.html)
