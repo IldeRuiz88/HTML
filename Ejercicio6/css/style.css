@@ -1,0 +1,40 @@
+.img{
+    width: 400px;
+    height: 300px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.content{
+    width: 400px;
+    height: 525px;
+    border: 10px;
+    border-style: solid;
+    background-color: rgba(255, 218, 185, 0.644);
+    border-color: black;
+    overflow: hidden;
+}
+
+.pie{
+    text-align: right;
+}
+
+.main{
+    box-sizing: border-box;
+    height: 70%;
+    padding: 8px;
+}
+
+.boton{
+    display: inline-block;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+    font-size: small;
+    background-color: rgb(182, 72, 9);  
+    padding: 8px 16px;
+    align-items: center;
+
+}
+
