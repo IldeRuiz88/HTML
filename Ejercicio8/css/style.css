@@ -1,0 +1,88 @@
+.centrar{
+    text-align: center;
+}
+
+.encabezados{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+
+form {
+    border-width: 10px;
+    border-style: groove;
+    border-color: red;
+    margin: 8% auto;
+    max-width: 300px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+label{
+    text-align: center;
+    color: azure;
+    margin-bottom: 3px;
+    display: block;
+    background-color: rgb(108, 105, 141);
+    margin-block: 2px;
+}
+
+button{
+    background-color: black;
+    color: white;
+}
+
+#Modelos {
+    border-width: 10px;
+    border-style: inset;
+    border-color: rgb(108, 105, 141);
+}
+#Intro{
+    border-width: 10px;
+    border-style: groove;
+    border-color: red;
+}
+a {
+    color: rgb(110 106, 111); 
+    text-decoration: none; 
+}
+
+a:active {
+    color: red; 
+}
+
+a:visited {
+    color: rgb(108, 105, 141); 
+}
+
+.table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 45%; 
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    
+}
+
+table, th, td {
+    border: 10px solid rgb(255, 255, 255);
+    border-color: rgb(110 106, 111); 
+    border-style: groove;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    background-color: black;
+    margin: 0;
+}
+
