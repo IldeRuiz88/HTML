@@ -13,4 +13,6 @@ Trabajos HTML (Programación Web)
 ### Trabajo 4 CSS
 [Form](Ejercicio8/Form.html)
 ### Trabajo 5 CSS
-[Flex](Ejercicio9/Tarjeta.html)
+[Flex](Ejercicio10/Tarjeta.html)
+### Trabajo 6 CSS
+[Variables y Funciones](Ejercicio_11/Tarjeta.html)
