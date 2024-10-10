@@ -16,3 +16,5 @@ Trabajos HTML (Programación Web)
 [Flex](Ejercicio10/Tarjeta.html)
 ### Trabajo 6 CSS
 [Variables y Funciones](Ejercicio_11/Tarjeta.html)
+### Trabajo 7 CSS
+[Grid](Ejercicio12/Tarjeta.html)
