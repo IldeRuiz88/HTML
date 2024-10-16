@@ -22,3 +22,5 @@ Trabajos HTML (Programación Web)
 [Responsivo](Ejercicio13/VDC.html)
 ### Examen CSS
 [Examan CSS](Ejercicio_Final/VDC.html)
+### Trabajo 1 JS
+[Calculadora](Ejercicio1_JS/index.html)
