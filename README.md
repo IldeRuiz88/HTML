@@ -5,7 +5,7 @@ Trabajos HTML (Programación Web)
 ### Trabajo 3
 [Formularios](Ejercicio4/Formularios.html)
 
-##CSS
+## CSS
 
 ### Trabajo 1 CSS
 [Fender](Ejercicio5/Fender.html)
@@ -26,7 +26,7 @@ Trabajos HTML (Programación Web)
 ### Examen CSS
 [Examan CSS](Ejercicio_Final/VDC.html)
 
-##JavaScript
+## JavaScript
 
 ### Trabajo 1 JS
 [Calculadora](Ejercicio1_JS/index.html)
